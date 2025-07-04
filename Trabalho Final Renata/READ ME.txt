@@ -1,0 +1,64 @@
+TRABALHO FINAL – LABORATÓRIO DE PROGRAMAÇÃO I
+Tema: Organização de Tarefas
+Integrantes: Guilherme Cetto, Igor, Isaque
+
+===============================
+DESCRIÇÃO DO PROGRAMA
+===============================
+
+Este programa tem como objetivo organizar e gerenciar tarefas institucionais em diferentes setores. 
+Foi desenvolvido para cumprir os requisitos do trabalho final da disciplina Laboratório de Programação I,
+utilizando matrizes (3x4) e vetores unidimensionais fixos.
+
+O programa permite registrar se as tarefas foram realizadas por cada setor, além de armazenar os 
+respectivos horários. Também permite consultar, atualizar e gerar relatórios filtrados.
+
+===============================
+ESTRUTURAS USADAS
+===============================
+
+• Vetor de Setores (linhas da matriz):
+  - Secretaria Administrativa
+  - Atendimento Geral
+  - Análise Operacional
+
+• Vetor de Tarefas (colunas da matriz):
+  - Organização Arquivos
+  - Atendimento ao Cliente
+  - Análise de Dados
+  - Suporte Técnico
+
+• Matriz de Tarefas Realizadas (3x4): armazena "sim" ou "não"
+• Matriz de Horários (3x4): armazena os horários atribuídos às tarefas
+
+===============================
+FUNCIONALIDADES DO MENU
+===============================
+
+1. Cadastrar dados:
+   - Permite registrar se cada tarefa foi realizada (sim/não) e qual foi o horário programado.
+
+2. Listar dados:
+   - Exibe as duas matrizes (tarefas realizadas e horários) com formatação organizada.
+
+3. Buscar dados:
+   - Permite consultar os dados informando nome do setor e da tarefa.
+
+4. Atualizar dados:
+   - Altera manualmente os dados de uma célula informando os índices da linha e coluna.
+
+5. Relatório com filtro:
+   - Exibe somente as tarefas com status "sim" ou "não", conforme filtro escolhido pelo usuário.
+
+0. Sair:
+   - Encerra o programa.
+
+===============================
+REQUISITOS DE EXECUÇÃO
+===============================
+
+• Requer Python 3 instalado.
+• Executar o arquivo `.py` em um terminal ou IDE (IDLE, Thonny, VSCode, etc.).
+• Seguir as instruções exibidas no menu interativo.
+• Evite inserir valores inválidos (ex: respostas fora de "sim"/"não").
+
