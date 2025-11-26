@@ -2,12 +2,9 @@
 
 > **Status do Projeto:** 🚀 Em desenvolvimento (MVP Funcional)
 
-Este projeto consiste em um **Bot para Discord** desenvolvido em **Python**, focado na gestão simplificada de um condomínio. A arquitetura do sistema foi baseada fielmente em um **Diagrama de Classes UML**, traduzindo conceitos de Orientação a Objetos para uma aplicação prática e interativa.
+Este projeto consiste em um **Bot para Discord** desenvolvido em **Python**, focado na gestão simplificada de um condomínio. A arquitetura do sistema foi baseada fielmente em um **Diagrama de Classes UML**(Se encontra no final do arquivo), traduzindo conceitos de Orientação a Objetos para uma aplicação prática e interativa.
 
 O objetivo é permitir que porteiros e administradores realizem cadastros, controlem acessos e gerenciem reservas de áreas comuns diretamente pela interface de chat do Discord.
-
-## UML
-<img width="3335" height="1364" alt="Image" src="https://github.com/user-attachments/assets/db0acfce-daac-4fcb-88f1-f80ce74e70a0" />
 
 ## 🛠 Tecnologias Utilizadas
 
@@ -125,6 +122,9 @@ Resposta do Bot:
 [ ] Criação de cargos automáticos no Discord para Moradores verificados.
 
 [ ] Sistema de notificação via DM para o morador quando um visitante chegar.
+
+## UML
+<img width="3335" height="1364" alt="Image" src="https://github.com/user-attachments/assets/db0acfce-daac-4fcb-88f1-f80ce74e70a0" />
 
 ## 👨‍💻 Autor
 Igor Hermann Salgado
