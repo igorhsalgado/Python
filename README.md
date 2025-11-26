@@ -126,7 +126,7 @@ Resposta do Bot:
 
 [ ] Sistema de notificação via DM para o morador quando um visitante chegar.
 
-### 👨‍💻 Autor
+## 👨‍💻 Autor
 Igor Hermann Salgado
 
 
