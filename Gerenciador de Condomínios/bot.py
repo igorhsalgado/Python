@@ -216,4 +216,5 @@ async def relatorio(ctx):
 
 # --- EXECUÇÃO ---
 # Substitua pelo seu TOKEN
-bot.run('MTQ0MzIzMDY5MDkzMzIxMTE3Nw.GsCSDP.ZQmaijO3cerraA1_Q0JDVL2Qpj8ST3enaPOe4s')
+
+bot.run('SEU_TOKEN_AQUI')
