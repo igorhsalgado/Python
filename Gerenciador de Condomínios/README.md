@@ -2,7 +2,7 @@
 
 > **Status do Projeto:** 🚀 Em desenvolvimento (MVP Funcional)
 
-Este projeto consiste em um **Bot para Discord** desenvolvido em **Python**, focado na gestão simplificada de um condomínio. A arquitetura do sistema foi baseada fielmente em um **Diagrama de Classes UML**(Se encontra no final do arquivo), traduzindo conceitos de Orientação a Objetos para uma aplicação prática e interativa.
+Este projeto consiste em um **Bot para Discord** desenvolvido em **Python**, focado na gestão simplificada de um condomínio. A arquitetura do sistema foi baseada fielmente em um **Diagrama de Classes UML** (se encontra no final do arquivo), traduzindo conceitos de Orientação a Objetos para uma aplicação prática e interativa.
 
 O objetivo é permitir que porteiros e administradores realizem cadastros, controlem acessos e gerenciem reservas de áreas comuns diretamente pela interface de chat do Discord.
 
