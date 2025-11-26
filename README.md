@@ -6,6 +6,9 @@ Este projeto consiste em um **Bot para Discord** desenvolvido em **Python**, foc
 
 O objetivo é permitir que porteiros e administradores realizem cadastros, controlem acessos e gerenciem reservas de áreas comuns diretamente pela interface de chat do Discord.
 
+## UML
+<img width="3335" height="1364" alt="Image" src="https://github.com/user-attachments/assets/db0acfce-daac-4fcb-88f1-f80ce74e70a0" />
+
 ## 🛠 Tecnologias Utilizadas
 
 * **Linguagem:** Python 3.x
